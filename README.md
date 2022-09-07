@@ -1,3 +1,11 @@
+# Student account
+User is able to login by simple button. 
+Observe his/her courses list. 
+Go to the current course. Observe topic of each course. Sort, filter. Make notes to each topic.
+Logout from account.
+
+I'm using a miragejs for emulate fake responses from the server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
